@@ -23,7 +23,7 @@ The calibration relies on the asymptotic expansion derived by **Hagan et al. (20
 The implied normal volatility $\sigma_N(K)$ is approximated as:
 
 $$
-\sigma_N(K) = \alpha \frac{z}{\chi(z)} \cdot \Bigg\{ 1 + \Bigg[ \frac{2-3\rho^2}{24}\nu^2 \Bigg] T \Bigg\}
+\sigma_N(K) = \alpha \frac{z}{\chi(z)} \cdot \left( 1 + \left[ \frac{2 - 3\rho^2}{24} \nu^2 \right] T \right)
 $$
 
 Where:
